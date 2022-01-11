@@ -1,8 +1,5 @@
-# travel
-travel related
+# The Digital Globetrotter becomes The Most traveled man
 
-The Digital Globetrotter becomes The Most traveled man
------
 
 More than 20 years and counting exploring the world, seventeen years full time as a professional adventurer. What the exploit Ian Boudreault has accomplished this summer 2021 is amazing. French-Canadian trotted the world endlessly to achieve an astounding 231 different nations, while successfully reaching each of the 195 countries recognized by the United Nations. The nation of Libya, which is coming out of a time of hardship with years at war, was the last country he visited. The well-known writer identified as The Digital Globetrotter has been relating his adventures to his readers on his blog, bringing with him a widening community of explorers on his journey. 
 
