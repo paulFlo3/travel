@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/paulFlo3/travel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Endless voyage - Man know as the The most traveled person strikes all the 195 UN countries 
+-----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Amounting to 2 decades exploring the world, seventeen years passionately working as a professional traveler. What the exploit Ian Boudreault has accomplished this summer 2021 is amazing. The young Canadian trotted the world endlessly to reach a staggering 231 different nations, while successfully reaching each and every one of the 195 nations recognized by the United Nations. The nation of Libya, which is recovering from a very difficult period from the long war, was his last country. The famous author identified as The Digital Globetrotter has been recounting his adventures to his audience on his blog, accompanying him a growing community of adventurers on his journey. 
 
-### Markdown
+”To be honest, It was such an amazing journey with so many unbelievable accounts that would take days to entail” says Ian, in the middle of our talk with the French-Canadian. “A great accomplishment, but It absolutely won’t be the last of my adventures, I have way more projects on my mind.” 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When he was about to visit the last nation, Ian caught the proposition to publish his book named ”Globetrotter - from pioneer digital nomad to world’s most traveled man”, which is already for sale and has already reached Bestseller status  at the well-known Amazon. It is available for order at the American companies Amazon, Google Book, Apple Store, and other press platforms, for order in many mediums such as paperback, hardcopy, digital, or even as an audiobook. Ian makes sure it is simply a milestone in his long-lasting adventure, the 195th, and final country basically a chance to retell his journey this far, and that a lot more is to come. The Best Seller has even been published in 4 other languages, being accessible to a enormous following  all over the globe who is excited to be informed more about this joyous life story. 
 
-```markdown
-Syntax highlighted code block
+As a matter of fact, the youthful traveler teases a handful of plans of novel avenues he will take briefly, at the end of his journal, by choosing on new obstacles to explore the Earth on a ship, and to surf all greatest beaches on Earth. An inspiring tale of the possibilities that present itself from a different manner of living I'm a different way. The team will absolutely keep in touch closely his next journeys on his website, or hopefully in a possible follow-up volume Soon! 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulFlo3/travel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Judging by all the huge volume of striking adventures he recalls in his book, we can surely see how it was possible for him write a dozen copies to share with his readers, and they would constantly inquire for more.It is absolutely  entertaining to tag along with him in his enjoyment to live to the limits, a thing that was definitely found in the middle of our interview. We hope to catch him somewhere on our path in the upcoming future! 
